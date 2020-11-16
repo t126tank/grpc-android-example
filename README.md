@@ -7,3 +7,6 @@
     ```
 
 2. Run android application by Android Studio with Android Emulator
+
+# Ref
+[gRPC クライアントをAndroid アプリで書く](https://mizunashi-mana.github.io/blog/posts/2020/04/kotlin-android-grpc/)
